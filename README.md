@@ -3,8 +3,9 @@
   <img src="https://img.okezone.com/content/2023/10/20/206/2905391/mini-seri-tom-and-jerry-hadirkan-pemandangan-singapura-mQnA840CEQ.jpg" width='500px'>
 </p>
 
-Tom and Jerry adalah sebuah serial animasi asal Amerika Serikat produksi MGM, yang bercerita tentang seekor kucing yang bernama Tom, dan seekor tikus yang bernama Jerry yang selalu bertengkar. Serial animasi ini telah memenangkan penghargaan Piala Oscar dan membentuk dasar dari seri sukses studio MGM. Cerita pendek mereka diciptakan, ditulis, dan disutradarai oleh dua orang animator bernama William Hanna dan Joseph Barbera (kemudian terkenal sebagai Hanna-Barbera).
+Pada project kali ini saya akan mencoba mengklasifikasikan antara karakter Tom & Jerry menggunakan deep learning, Tom and Jerry adalah sebuah serial animasi asal Amerika Serikat produksi MGM, yang bercerita tentang seekor kucing yang bernama Tom, dan seekor tikus yang bernama Jerry yang selalu bertengkar. Serial animasi ini telah memenangkan penghargaan Piala Oscar dan membentuk dasar dari seri sukses studio MGM. Cerita pendek mereka diciptakan, ditulis, dan disutradarai oleh dua orang animator bernama William Hanna dan Joseph Barbera (kemudian terkenal sebagai Hanna-Barbera).
 
+Pada project kali ini saya akan mencoba mengklasifikasikan antara karakter Tom & Jerry 
 ## Tools yang digunakan
 <table>
   <tr>
